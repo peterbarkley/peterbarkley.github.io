@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter Barkley account"
+title                    : "Peter Barkley"
 title_separator          : "-"
 name                     : &name "Peter Barkley"
 description              : &description "Lifelong student"

@@ -1,7 +1,7 @@
 ---
 title: "Scheduling of Daily Flight Training for a United States Navy Strike Fighter Squadron Detachment."
 collection: publications
-permalink: /publication/2021-paper-scheduling-1.md
+permalink: 'https://www.jstor.org/stable/27028853'
 excerpt: ''
 date: 2021-01-01
 venue: 'Military Operations Research'
